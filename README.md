@@ -20,4 +20,10 @@ Follow the prompts to select the desired criteria for your password, and a secur
 
 ## Links
 
+[Password Generator](https://royreid3rd.github.io/Password-Generation-Application/)
+
+[Github Repository](https://github.com/royreid3rd/Password-Generation-Application)
+
 ## Application Screenshot
+
+![image](https://github.com/royreid3rd/Password-Generation-Application/assets/147444145/3641e79b-25aa-45ba-a811-0900130fd66d)
